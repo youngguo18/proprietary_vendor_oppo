@@ -1,0 +1,805 @@
+<!DOCTYPE html prefix="og: http://ogp.me/ns#">
+<html lang="en">
+<head cz-shortcut-listen="true">
+    <script type="text/javascript" nonce="9hPQ9O1Ia25d8aIYFmnF4AkR9tUvTkWS">
+<!--
+
+// --></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="msapplication-tap-highlight" content="no">
+
+<!-- Favicons-->
+<link rel="icon" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+<!-- Favicons-->
+<link rel="apple-touch-icon-precomposed" href="/img/favicon/apple-touch-icon-152x152.png">
+<!-- For iPhone -->
+<meta name="msapplication-TileColor" content="#00bcd4">
+<meta name="msapplication-TileImage" content="/img/favicon/mstile-144x144.png">
+<!-- For Windows Phone -->
+
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="libOmxSwVencMpeg4.so - Shared via AtOnline" />
+<meta property="og:url" content="https://www.filesend.jp/l/en-US/ppUfMh"/>
+<meta property="og:locale" content="en-US"/>
+<meta property="og:site_name" content="filesend.jp"/>
+
+
+<meta property="article:published_time" content='Mon Apr 24 23:36:56 2023'/>
+<meta property="og:description" content=""/>
+<meta name="robots" content="noindex"/>
+<meta name="twitter:card" content="summary_large_image">
+
+ <!-- CORE CSS-->
+<link rel="stylesheet" type="text/css" href="/_minify/50a6d479623bd241ad3e37ad024056b9d1203c05.css">
+
+
+<style type="text/css">
+body{
+  /*background-color: #4a425d;
+      background-image: -webkit-linear-gradient(30deg, #fbfbfb 54%, #4a425d 54.2%);*/
+    background: #4a425d;
+    background: -moz-linear-gradient(top, #fbfbfb  0%, #4a425d 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fbfbfb ), color-stop(100%,#4a425d));
+    background: -webkit-linear-gradient(top, #fbfbfb  0%,#4a425d 100%);
+    background: -o-linear-gradient(top, #fbfbfb  0%,#4a425d 100%);
+    background: -ms-linear-gradient(top, #fbfbfb  0%,#4a425d 100%);
+    background: -webkit-linear-gradient(30deg, #fbfbfb 54%, #4a425d 54.2%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fbfbfb ', endColorstr='#4a425d',GradientType=0 );
+    background-attachment: fixed;
+      
+}
+nav{
+     -webkit-box-shadow: unset; 
+     box-shadow: unset; 
+}
+
+/* vietnamese */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Encode Sans Expanded Regular'), local('EncodeSansExpanded-Regular'), url(/fonts/encodesansexpanded/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpoqKQZwdw.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Encode Sans Expanded Regular'), local('EncodeSansExpanded-Regular'), url(/fonts/encodesansexpanded/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUporKQZwdw.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Encode Sans Expanded';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Encode Sans Expanded Regular'), local('EncodeSansExpanded-Regular'), url(/fonts/encodesansexpanded/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpolKQY.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<!--[if IE]><script type="text/javascript" src="/_minify/71d8cbe350bd366a31420227323ee4cb06b63a48.js"></script><![endif]--><script type="text/javascript" nonce="9hPQ9O1Ia25d8aIYFmnF4AkR9tUvTkWS">
+var FW = (function() {var my = {"Context":{"b":"master","c":"JPY","l":"en-US"},"GET":{},"Locale":"en-US","Realm":{"Realm__":"usrr-xn2bqz-3e6j-ggdk-nl6n-u5mzqwse","Country__":null,"Name":"FileSend.jp","Domain":"www.filesend.jp","Registration":"open","Terms_of_Service":null,"Password_Reset":null,"Classify":{"Classify__":"clsf-6ounh5-tkxf-fifg-jeg5-3qpvhtmq","MetaObject__":"usrr-xn2bqz-3e6j-ggdk-nl6n-u5mzqwse","Created":{"unix":1590386600,"us":220240,"iso":"2020-05-25 06:03:20.220240","tz":"UTC","full":"1590386600220240","unixms":"1590386600220"}},"Properties":{}},"URL":{"full":"https://www.filesend.jp/l/en-US/ppUfMh","host":"www.filesend.jp","path":"/l/en-US/ppUfMh","scheme":"https"},"cookies":{"Locale":"en-US"},"hostname":"www.filesend.jp","mode":"tpl","path":"/ppUfMh","prefix":"/l/en-US","token":"MCftzv4RQGYEsYftlPHtvPENwawlr_EHDkZSiuesPCq_tGH6wnqj1pJ8A3berD82o5nv8pIe4NZ4P7zXT8b5byZ3Sklk5Cs3yIljMvTZQ5LWTgSU-N1YYH_84TQa2w-dXkJAur8Trws","urlid":"rgur-6dvuap-coxb-g4dh-y4wq-3uvuh6ai","uuid":"b7c16518-5160-4186-b5bd-abde6ede0759"};return my;}());
+</script>
+<script type="text/javascript" src="/_minify/2c61bcd386e203d21b8ff0b360f0a699bfabaeaf.js"></script>
+
+<script type="text/javascript" src="/_minify/7f5b8ac68f879ca77368f399400b7d4fb3b37362.js"></script>
+
+<script>
+
+$(document).ready(function(){
+
+	FW.load("sha256");
+ 	$('.dropdown-trigger').dropdown();
+
+
+});
+</script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+	<title>FileSend.jp - Easily share files online</title>
+</head>
+
+<body cz-shortcut-listen="true" ondragstart="return false;" ondrop="return false;">
+<nav class="light-blue lighten-1" role="navigation">
+    <div class="nav-wrapper container">
+    	<a id="logo-container" href="/l/en-US/" class="brand-logo">
+        	<img src="/img/logo-ghost.svg" alt="" style="width: 220px;height: 41px;">
+        </a>
+        <ul class="right" style="margin-top: 16px;">
+              <li>
+                <a href="javascript:void(0);" class="waves-effect waves-block waves-light translation-button"  data-activates="translation-dropdown"><img src="/img/flag-icons/en-US.png" alt="en-US" /></a>
+              </li>
+        </ul>
+        <ul id="translation-dropdown" class="dropdown-content" style="min-width: 200px;">
+              
+                  <li><a href="https://www.filesend.jp/l/en-US/ppUfMh" hreflang="en-US"><img src="/img/flag-icons/en-US.png" alt="English (US)"/>  <span class="language-select">English (US)</span></a></li>
+              
+                  <li><a href="https://www.filesend.jp/l/ja-JP/ppUfMh" hreflang="ja-JP"><img src="/img/flag-icons/ja-JP.png" alt="日本語"/>  <span class="language-select">日本語</span></a></li>
+              
+                  <li><a href="https://www.filesend.jp/l/fr-FR/ppUfMh" hreflang="fr-FR"><img src="/img/flag-icons/fr-FR.png" alt="Français"/>  <span class="language-select">Français</span></a></li>
+              
+        </ul>
+    </div>
+  </nav>
+  
+<div class="main">
+<div class="container">
+  <div class="row">
+    <div class="col s12 m8">
+    	
+<div class="">
+    <div class="section">
+ 
+    	<div class="row align-center">
+
+		  		<div class="col s12 m12 l4">
+		  			<h5 class="url"> </h5>
+		  		</div>
+		  		<div class="col s12 m12 l4 btn-copy">
+		  			<a class="copy-link waves-effect waves-light btn"> <i class="material-icons left">content_copy</i>Copy link</a> 
+		  			<a class="copied-link waves-effect waves-light btn hide" disabled> Link copied</a>
+
+
+				</div>
+		  		<div class="col s12 expires">
+		  			<p>Expires on Mon May  1 23:36:56 2023
+
+						
+					</p>
+		    	</div>
+		    	
+		</div>
+
+	</div>
+
+	<div class="section">
+		<div class="icon-and-download">
+
+			<div class="col s12 m8 container-icons">
+	 			<span>
+	 				<a class="share_line" onclick="return !window.open(this.href, 'Line', 'width=500,height=500')" href="" target="_blank"><img src="/img/sns/line-new.svg" class="icon-sns"></a>
+	 			</span>
+	 			<span>
+	 				<a class="share_telegram" onclick="return !window.open(this.href, 'Telegram', 'width=500,height=500')" href="" target="_blank"><img src="/img/sns/telegram-new.svg" class="icon-sns"></a>
+	 			</span>
+	 			<span class="hide-on-med-and-up">
+	 				<a class="share_fb" onclick="return !window.open(this.href, 'Facebook', 'width=500,height=500')" href=""  target="_blank"><img src="/img/sns/messenger-new.svg" class="icon-sns"></a>
+	 			</span>
+	 			<span>
+	 				<a class="share_skype" onclick="return !window.open(this.href, 'Skype', 'width=500,height=500')" href=""  target="_blank"><img src="/img/sns/skype-new.svg" class="icon-sns"></a>
+	 			</span>
+	 			<span class="hide-on-med-and-up">
+	 				<a class="share_whatsapp" onclick="return !window.open(this.href, 'WhatsApp', 'width=500,height=500')" href="whatsapp://send" target="_blank"><img src="/img/sns/whatsapp-new.svg" class="icon-sns"></a>
+	 			</span>
+	 			<span>
+	 				<a class="share_reddit" onclick="return !window.open(this.href, 'Reddit', 'width=500,height=500')" href="whatsapp://send" target="_blank"><img src="/img/sns/reddit-new.svg" class="icon-sns"></a>
+	 			</span>
+				<span>
+				   <a href="/cdn-cgi/l/email-protection#5a65292f38303f392e67137f686d377f686a293f343e33343d7f686a23352f7f686a2e323f293f7f686a3c33363f297c3b372a6138353e2367123f283f7f686a33297f686a2e323f7f686a36333431607f6a1b7f6a1b322e2e2a29607f681c7f681c223c3674302a7f681c2a2a0f3c1732" title="Share by Email"><img src="/img/sns/mail-new.svg" class="icon-sns"></a>
+				</span>
+
+			</div>
+
+			<div class="col s12 m12 l4 align-center">
+				
+					<a class="btn download-btn top-download"><i class="material-icons left">archive</i> Download (284.77 kB) </a>
+				
+		    </div>
+		</div>
+	</div>
+
+	<div class="section">
+	    <div class="row js-item-list">	
+			
+
+				
+					
+					
+	<div class="col s12 item" data-id="saraf-ptjh4h-7z2r-akhp-a5at-qze72wci">
+
+ 		<div class="card blue-grey darken-1">
+	        <div class="card-content white-text">
+	          	<div class="post-image-meta">
+	        		<div>
+		        		<div class="post-image-description col s10 m8">
+		        			libOmxSwVencMpeg4.so 
+		        		</div>
+		        		<div class="right col s2 m4">
+		        			<a  class="file-saraf-ptjh4h-7z2r-akhp-a5at-qze72wci" href="https://s3.ap-southeast-1.amazonaws.com/blob-ap-southeast-1-cpfdq7/sara/e4/e485/e485c1d9-57cc-4ef6-a8b9-a683fcc4d1fd.bin?response-content-disposition=attachment%3B%20filename%3D%22libOmxSwVencMpeg4.so%22&amp;response-content-type=&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4DM2EY46SOWUMUP4%2F20230424%2Fap-southeast-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230424T143749Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=1800&amp;X-Amz-Signature=efb2316874e0014d04971212b66d4367e3075b3d11bc35d41772d6456f4501c6"><i class="material-icons right white-text">file_download</i></a>
+		        			<span class="right">284.77 kB </span>
+		        		</div>
+			        </div> 
+		      	</div>
+	        </div>
+
+            <a class="viewfile-saraf-ptjh4h-7z2r-akhp-a5at-qze72wci" href="https://s3.ap-southeast-1.amazonaws.com/blob-ap-southeast-1-cpfdq7/sara/e4/e485/e485c1d9-57cc-4ef6-a8b9-a683fcc4d1fd.bin?response-content-disposition=inline%3B%20filename%3D%22libOmxSwVencMpeg4.so%22&amp;response-content-type=&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIA4DM2EY46SOWUMUP4%2F20230424%2Fap-southeast-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20230424T143749Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=1800&amp;X-Amz-Signature=8f1ef3504a058a703ba2eb38cf81cf7202a1c47b6836e7364136aad1569fb7b1" target="_blank">
+		    	<img src="/img/file.png" style="width:100%">
+			</a>
+
+	    </div>
+
+    </div>
+
+
+
+
+				
+
+			
+		</div>
+	</div>
+
+</div>
+
+    </div>
+
+    <div class="col s12 m4 right-sad" >
+
+      <div class="">
+          <div class="section">
+          
+             <div class="sad col s12 right">
+               <p class="center white-text">Need to keep files <b>longer</b>&nbsp;<span>or <b>manage</b> files to be shared?</span></p>
+               
+             </div>
+          </div>
+      </div>
+      <div class="section no-pad-bot" id="index-banner" style="padding-top: initial;">
+          <div class="">
+            <h3 class="header center upgrade-text">AtOnline Drive</h3>
+
+            <div class="container">
+              <div class="row center">
+                <a href="https://drive.atonline.com" target="_blank" style="background: #03a9f4;" id="download-button" class="btn-large waves-effect waves-light">Get started</a>
+              </div>
+            </div>
+          </div>
+      </div>
+
+      <div class="">
+          <div class="section">
+            	<!--   Icon Section   -->
+            	<div class="row">
+      	        <div class="col s12">
+      	          <div class="icon-block">
+      	            <h2 class="center light-blue-text">
+                      <i class="material-icons icon-feature white-text">security</i>
+                      <span class="white-text title-sad">Safe</span>
+                    </h2>
+      	           
+
+      	            <p class="light white-text center desc-feature">Store all your files in the cloud, and never risk losing data from hardware failure.</p>
+      	          </div>
+      	        </div>
+
+      	        <div class="col s12">
+      	          <div class="icon-block">
+      	            <h2 class="center light-blue-text">
+                      <i class="material-icons icon-feature white-text">thumb_up</i>
+                      <span class="white-text title-sad">Convenient</span>
+                    </h2>
+      	        
+
+      	            <p class="light white-text center desc-feature">Access your files from any location, on PC and mobile.</p>
+      	          </div>
+      	        </div>
+
+      	        <div class="col s12">
+      	          	<div class="icon-block">
+      		            <h2 class="center light-blue-text">
+                        <i class="material-icons icon-feature white-text">group</i>
+                        <span class="white-text title-sad">Sharing</span>
+                      </h2>
+      		           
+
+      		            <p class="light white-text center desc-feature">Easily share files and folders with customers and coworkers</p>
+      	          	</div>
+      	        </div>
+            	</div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal Structure -->
+<div id="cancel-modal" class="modal">
+  <div class="modal-content">
+    <div id="delete-error" class="card red" style="display: none;">
+      <div class="card-content white-text" >
+        <p>
+          <i class="material-icons">warning</i> An error occurred during the deletion of your data, please contact us.</p>
+      </div>
+    </div>
+    <h4>Delete this data</h4>
+    <p>Are you sure you want to delete the data on this page?</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-close waves-effect btn-flat">Cancel</a>
+    <a id="cancel-modal-agree" href="#!" class="red waves-effect white-text btn-flat">Confirm</a>
+  </div>
+</div>
+
+</div><!--main-end--->
+<style type="text/css">
+
+.row-img {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+  max-width: 33%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.column .desc-multiple {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+
+
+
+.card .card-content {
+    padding: 12px;
+}
+.post-image-meta {
+	padding: 0px 0px 16px;
+    font-family: sans-serif;
+}
+.container-icons{float: left;}
+.icon-sns{height: 30px;width: 90px;}
+.icon-sns:hover{opacity: 0.8;}
+.post-image-description {
+    line-height: 19px;
+    word-wrap: break-word;
+}
+.title-item{padding: 24px;
+    border-radius: 0 0 2px 2px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: rgb(74, 66, 93, 0.7);
+}
+.expires{margin-top: -18px;color: #777777;}
+.copy-link,.download-btn{background-color: #03a9f4;margin-top: 1px;}
+.download-btn{float: right;font-size: 12px;}
+.copy-link{margin-left: 24px;}
+.icon-block {
+    border: none;
+        margin-bottom: 45px;
+}
+.switch-toggle {
+  max-width: 320px;
+}
+
+.switch-toggle label:not(.disabled) {
+  cursor: pointer;
+}
+.switch-toggle label:nth-child(2):nth-last-child(8), .switch-toggle label:nth-child(2):nth-last-child(8)~label, .switch-toggle label:nth-child(2):nth-last-child(8)~a {
+    padding: 8px 16px;
+    font-size: 14px;
+}
+.desc-feature{font-size: 20px}
+.icon-feature{font-size: 50px!important;    margin-bottom: -16px;}
+#download-button{font-size: x-large;font-weight: bolder;}
+.drag_drop_msg{position: relative;font-size: 32px;}
+
+.icon-block h2 {
+    margin: 0;
+    height: inherit;
+}
+.upgrade-text{color: #03a9f4;font-size: 42px;}
+.uploadBtn{padding: 40px;}
+.btn-copy{    margin-top: 12px;}
+.btn-upload{
+    width: auto;
+    background-color: #03a9f4;
+    margin: 50px;
+    font-size: xx-large;
+    padding: 32px;
+    line-height: 0px;
+}
+#total_files{font-size: 18px;margin-top: 28px;position: absolute;}
+
+.sad p{
+    font-size: 20px
+}
+#drive-upload-zone {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+#drive-upload-zone {
+    background: linear-gradient(to bottom right,rgba(214,93,177,.2),rgba(255,111,145,.2));
+    z-index: 99999;
+}
+#drive-upload-zone .upload-placeholder {
+    display: block;
+    width: 30rem;
+    height: 30rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 15rem;
+    background-color: rgba(0,0,0,.1);
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+}
+#drive-upload-zone .upload-placeholder>.icons {
+    color: #fff;
+}
+#drive-upload-zone .upload-placeholder>.icons>:first-child {
+    -webkit-transform: translate3d(-110%,-50%,0) rotate(-45deg);
+    transform: translate3d(-110%,-50%,0) rotate(-45deg);
+}
+#drive-upload-zone .upload-placeholder>.icons>:last-child {
+    -webkit-transform: translate3d(10%,-50%,0) rotate(45deg);
+    transform: translate3d(10%,-50%,0) rotate(45deg);
+}
+#drive-upload-zone .upload-placeholder>.icons>* {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+    -webkit-transform-origin: bottom center;
+    transform-origin: bottom center;
+}
+#drive-upload-zone .upload-placeholder>p {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    display: block;
+    width: 100vw;
+    font-size: 1.5em;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+
+
+.container {
+    margin: 0 auto;
+    max-width: 1920px;
+    width: 90%;
+}
+.progress {
+    background-color: #a5e3ff;
+}
+.progress .determinate{
+    background-color:#03a9f4;
+}
+.background-upload{
+    fill:#49435b;
+    background:url(/img/upload-ghost.svg);
+    background-repeat: no-repeat;
+    background-position: 0 45px; 
+}
+
+@media screen and (min-width:0\0) and (min-resolution: +72dpi) {
+  .background-upload{
+        background:url(/img/upload-ghost-ie.svg);
+    }
+}
+.btn-upload:hover, #download-button:hover, .copy-link:hover, .download-btn:hover {
+    background-color: #4a425d!important;
+}
+
+.icon-and-download{height: 42px;}
+.column>.title-item {
+    padding: 12px;
+    border-radius: 0 0 2px 2px;
+    position: relative;
+    top: 48px;
+    width: 100%;
+    background: rgb(74, 66, 93, 0.7);
+}
+
+.desc-multiple {
+    height: 32px;
+    position: relative;
+    background: rgba(74, 66, 93, 0.6);
+    width: 100%;
+    padding: 6px;
+    color: #FFF;
+}
+
+#cancel-modal {
+    width: 40%;
+}
+@media only screen and (max-width: 992px){
+    #cancel-modal {
+        width: 80%;
+    }   
+}
+
+@media only screen and (min-width: 993px){
+    .container {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 1250px) {
+    .column>.title-item {top: 59px;}
+}
+@media screen and (max-width: 1440px) {
+    .post-image-description{font-size: 12px;}
+    .filesize{font-size: 10px;}
+    .file_dl_icon{font-size: unset;}
+}
+@media screen and (max-width: 1024px) {
+    .column>.title-item {
+        top: 48px;
+    }
+}
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 992px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+  .row-img {
+  display: -ms-flexbox; /* IE10 */
+  display: unset;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+    }
+        .share_file{text-align: center;margin-left: unset;color:white;padding-right: 0;}
+    body{background-color: #4a425d;background-image: unset; }
+    nav{
+        -webkit-box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+        box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
+    }
+    .background-upload {
+        background: none;
+    }
+    .lifetime p{color:white;}
+    .url{color:white;}
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) { 
+    #download-button{width: 100%}
+    .drag_drop_msg{font-size: 18px;}
+    .btn-upload{margin: -32px;}
+    .uploadBtn{padding: 0;}
+    .container-icons{text-align: center;}
+    .align-center{text-align: center;}
+    .filesize{font-size: 12px;margin-top: 2px;margin-right: 16px;}
+    .download-btn{font-size: 12px;float:unset;}
+    .title-sad{font-size: x-large;}
+    .expires{margin-top: unset;color: #777777;}
+    .column>.title-item {top: 49px;}
+    .file_dl_icon{margin-top: 2px;}
+    .post-image-description{margin-top: 4px;}
+    .icon-and-download {margin-bottom: 16px;}
+}
+
+@media only screen and (max-width: 320px) { 
+    .column>.title-item {top: 63px;}
+    .filesize{font-size: 10px;margin-top: -14px;margin-right: 16px;}
+    .post-image-description{margin-top: 8px;}
+    .card .card-content {padding: 0;}
+}
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script data-ad-client="ca-pub-2951694173326115" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script type="text/javascript">
+
+  var itemCode = "ppUfMh";
+	var url = "https://xfl.jp/"+itemCode;
+
+
+
+function getLinks(){
+
+    var idItem        = "sara-j47fbi-b5rb-bqhg-dlcd-pwytnaaq";
+
+   FW.rest("Sara/"+idItem, "GET").done(function(data) {
+
+    for (i in data.data.Files){
+      if(data.data.Files[i].Profile=="risky"){
+        $(".file-"+data.data.Files[i].Sara_File__).attr("href",data.data.Files[i].Download_Url);
+        $(".viewfile-"+data.data.Files[i].Sara_File__).attr("href",data.data.Files[i].View_Url);
+        $(".top-download").attr("href",data.data.Files[i].Download_Url);
+      }else{
+        $(".top-download").attr("href",data.data.Files[i].Download_Url);
+      }
+    }
+
+    }).fail(function(data) {
+          
+    var token_error = data.responseJSON.token;
+
+    });
+}
+
+
+$(document).ready(function()
+    {
+
+      getLinks();
+      // count
+      var countNum = 1;
+      // Boolean Array
+      var itemBooleanArray = [];
+      var image_variation = "format=jpeg&strip&scale=1920x1080";
+
+      // Check if Media_Image is generated.
+      var imageCheck = function () {
+        FW.rest("Sara/"+ "ppUfMh", "GET", {image_variation:image_variation}).done(function(data) {
+          var filesArray = data.data.Files;
+
+          filesArray.forEach(function ( value, index) {
+            var probesNum = Object.keys(value.Probes).length;
+            var mediaImage = value.Media_Image;
+
+              // The number of Probes is one & Media_Image null
+              if (probesNum === 1 && mediaImage == void 0) {
+                  itemBooleanArray[index] = false
+                  return false;
+              }
+              else {
+                  itemBooleanArray[index] = true
+              }
+          });
+
+
+          $('.js-item-list').find('img').each(function (e) {
+            var saraFileId = $(this).closest('[data-id]').attr('data-id');
+
+            var currentItem = filesArray.filter( function( value ) {
+              return value.Sara_File__ === saraFileId;
+            });
+
+
+            if (currentItem[0].Media_Image) {
+              var itemVariationUrl = currentItem[0].Media_Image.Variation[image_variation];
+              
+              $('[data-id="'+ saraFileId +'"]').find('img').attr('src', itemVariationUrl);
+            }
+          });
+
+
+          // If itemBooleanArray contains false 
+          if (itemBooleanArray.indexOf(false) !== -1) {
+            if (countNum <= 30) {
+              setTimeout(function (){
+                imageCheck();
+              }, 2000 * countNum);
+              countNum += 1;
+            }
+          }
+        });
+      }
+      
+      imageCheck();
+
+        $('.modal').modal();
+        $(".url").prepend(url);
+        var subject = encodeURI("Inappropriate content");
+        var message = encodeURI("Hello,\nI think these files are inappropriate. Here is the link :\n" + url);
+        $(".link-report").attr("href", FW.prefix + "/contact?s=" + subject + "&m=" + message);
+
+        $(".share_telegram").attr("href", "https://telegram.me/share/url?url=" + url + "&text=");
+        $(".share_line").attr("href", "https://lineit.line.me/share/ui?url=" + url);
+        $(".share_fb").attr("href", "fb-messenger://share/?link=" + url + "&app_id=198740224000638");
+        $(".share_skype").attr("href", "https://web.skype.com/share?url=" + url + "&text=");
+        $(".share_reddit").attr("href", "https://reddit.com/submit?url=" + url + "&title=");
+
+
+        $("#cancel-modal-agree").click(function(){
+            $("#delete-error").hide();
+            $(this).prop("disable",true);
+            FW.rest("Sara/sara-j47fbi-b5rb-bqhg-dlcd-pwytnaaq", "DELETE").done(function(){
+                location.href = FW.prefix+"/";
+            }).fail(function(){
+                $(this).prop("disable",false);
+                $("#delete-error").show();
+            });
+
+        });
+    });
+
+new Clipboard('.copy-link', {
+  text: function() {
+  $(".copied-link").removeClass("hide");
+  $(".copy-link").addClass("hide");
+  setTimeout(function() {
+    $(".copied-link").addClass("hide");
+    $(".copy-link").removeClass("hide");
+  }, 5000);
+  
+
+    return url;
+  }
+});
+
+function downloadItemZip(){
+
+  var idItem        = "sara-j47fbi-b5rb-bqhg-dlcd-pwytnaaq";
+
+  FW.rest("Sara/"+idItem+":makeZip", "POST").done(function(data) {
+
+
+      var iframe;
+
+      iframe = document.createElement('iframe');
+      iframe.src = data.data.redirect_url;
+      iframe.style.display = 'none';
+      document.body.appendChild(iframe);
+
+    }).fail(function(data) {
+          
+    var token_error = data.responseJSON.token;
+
+    });
+}
+
+</script>
+
+<footer class="page-footer" id="footer">
+  <div class="footer-copyright">
+    <div class="">
+      <div class="row">
+      	<ul class="footer-part">
+        	<li class="copy">
+            ©2018 <a href="https://www.tristantechnologies.com/" target="_blank"> Tristan Technologies </a> - All rights reserved. - 
+            <a class="blue-text" href="/l/en-US/contact">Contact us</a> - 
+            <a class="blue-text" href="/l/en-US/faq">FAQ</a> - 
+            <a class="blue-text" href="/l/en-US/page/about">About us</a> 
+             - <a class="blue-text link-report" >Report</a>
+          </li>
+       	</ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="sidenav-overlay"></div>
+<div class="drag-target"></div>
+<script type="text/javascript" nonce="9hPQ9O1Ia25d8aIYFmnF4AkR9tUvTkWS">
+<!--
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+var track = track || false;
+track = { ev: function() { var t = new Array(); t.push('send'); t.push('event'); for(i = 0; i < arguments.length; i++) t.push(arguments[i]); ga.apply(null, t); if (this.parent) { t.shift(); t.shift(); this.parent.ev.apply(this.parent, t); } }, parent: track };
+ga("create","UA-84786544-4","auto");ga("set","anonymizeIp",true);ga("require","displayfeatures");ga("require","linkid","linkid.js");ga("send","pageview");
+// --></script>
+</body>
+</html>
